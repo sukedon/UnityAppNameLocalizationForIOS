@@ -1,0 +1,11 @@
+/* 
+ ローカライズ:日本語
+*/
+
+"CFBundleDisplayName" = "アプリ名";
+
+/*
+ 他にもinfo.plist内の文字列なら自由に指定できます。
+ 例)
+"NSUserTrackingUsageDescriptionl" = "IDFAダイアログの中に表示される文言"
+*/
